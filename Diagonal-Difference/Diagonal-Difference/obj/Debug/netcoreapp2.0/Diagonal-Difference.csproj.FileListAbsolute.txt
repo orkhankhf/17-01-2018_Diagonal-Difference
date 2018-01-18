@@ -1,0 +1,11 @@
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Diagonal-Difference\Diagonal-Difference\bin\Debug\netcoreapp2.0\Diagonal-Difference.deps.json
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Diagonal-Difference\Diagonal-Difference\bin\Debug\netcoreapp2.0\Diagonal-Difference.runtimeconfig.json
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Diagonal-Difference\Diagonal-Difference\bin\Debug\netcoreapp2.0\Diagonal-Difference.runtimeconfig.dev.json
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Diagonal-Difference\Diagonal-Difference\bin\Debug\netcoreapp2.0\Diagonal-Difference.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Diagonal-Difference\Diagonal-Difference\bin\Debug\netcoreapp2.0\Diagonal-Difference.pdb
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Diagonal-Difference\Diagonal-Difference\obj\Debug\netcoreapp2.0\Diagonal-Difference.csprojResolveAssemblyReference.cache
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Diagonal-Difference\Diagonal-Difference\obj\Debug\netcoreapp2.0\Diagonal-Difference.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Diagonal-Difference\Diagonal-Difference\obj\Debug\netcoreapp2.0\Diagonal-Difference.AssemblyInfoInputs.cache
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Diagonal-Difference\Diagonal-Difference\obj\Debug\netcoreapp2.0\Diagonal-Difference.AssemblyInfo.cs
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Diagonal-Difference\Diagonal-Difference\obj\Debug\netcoreapp2.0\Diagonal-Difference.dll
+C:\Users\Gamer\Desktop\C# Codes\2018\January\17-01-2018\Diagonal-Difference\Diagonal-Difference\obj\Debug\netcoreapp2.0\Diagonal-Difference.pdb
