@@ -1,5 +1,6 @@
 # 17-01-2018_Diagonal-Difference
 #Example:
+
            Sample Input;
            3
            11 2 4
