@@ -1,4 +1,7 @@
-# 17-01-2018_Diagonal-Difference
+**Diagonal Difference**
+
+Problem: https://www.hackerrank.com/challenges/diagonal-difference/problem
+
 #Example:
 
            Sample Input;
